@@ -7,7 +7,7 @@
 > 其它依赖的版本请查看: package.json
 
 
-### 服务端架构
+### 前端架构
 > 1. Vue全家桶: Vue + Vue-cli + VueX + VueRouter
 > 2. 前后端交互: Axios
 > 3. 前端资源管理与打包: WebPack(用到了node+npm)
